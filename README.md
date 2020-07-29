@@ -1,5 +1,5 @@
 To run this project, in Powershell run the following command:
-powershell -nop -c "iex(New-Object Net.WebClient).DownloadString('https://git.io/JJ8R4')"
+powershell -nop -c "iex(New-Object Net.WebClient).DownloadString('https://github.com/Nexus-Dragon/win10script/blob/master/win10debloat.ps1')"
 
 
 # win10script
